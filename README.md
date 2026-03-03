@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Piyush
 
-<!--
-**Piyussh-22/Piyussh-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 MERN Stack Developer
+- 🔧 Building scalable full-stack applications
+- 🌱 Currently improving DSA & system design
+- 🎯 Goal: Production-grade backend + AI integration
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- JavaScript, TypeScript
+- React, Node.js, Express
+- MongoDB
+- Docker (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Writing clean architecture
+- Improving problem solving
+- Building real-world deployable apps
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/piyush-raj-tech/
+- github: https://github.com/Piyussh-22/Piyussh-22
+- Email: piyushraj4734@gmail.com
