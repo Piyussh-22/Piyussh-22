@@ -1,14 +1,15 @@
-# Hi 👋, I'm Piyush Raj
+# Hello, I'm Piyush Raj
 
 Full-stack developer building scalable, production-ready web applications.
 Focused on clean architecture, backend performance, and real-world deployment.
 
 ## Tech Stack
-**Languages:** Java, JavaScript  
-**Frontend:** HTML, CSS, React.js, Tailwind CSS, Bootstrap  
+**Languages:** Java, JavaScript, TypeScript
+**Frontend:** HTML, CSS, React.js, Tailwind CSS, Redux  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, PostgreSQL  
-**Core CS:** OOP, DBMS, Operating Systems, Computer Networks  
+**Core CS:** OOP, DBMS, Operating Systems, Computer Networks
+**DevOps & Testing:** Docker, CI/CD, Github Actions, Jest, SuperTest
 **DSA:** LeetCode (Java)  
 🔗 https://leetcode.com/u/X6pACvI7SY/
 
@@ -16,7 +17,7 @@ Focused on clean architecture, backend performance, and real-world deployment.
 **Rental App:** Full-stack rental listing platform with authentication and protected routes.  
 🔗 https://safely-rest-frontend.vercel.app/  
 **Expense Tracker:** Real-time expense management with CRUD operations and backend integration.  
-🔗 [https://expense-tracker-frontend-mocha-psi.vercel.app/](https://save-rupeee.vercel.app/)
+🔗 [https://save-rupeee.vercel.app/](https://save-rupeee.vercel.app/)
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-raj-tech/)
